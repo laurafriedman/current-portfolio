@@ -1,0 +1,207 @@
+.portfolio-thumb {
+    max-height: 266px;
+    width: auto;
+
+}
+
+.fa {
+    display: inline-block;
+    width: 100%;
+    text-align:center;
+}
+
+h2 {
+    1em !important;
+}
+
+#mainNav {
+    border-bottom: black 3px solid;
+
+}
+
+.imgborder {
+    border: 3px black inset;
+}
+
+.bg-primary {
+    background-color: white !important;
+    color: black !important;
+}
+
+.copyright {
+    background-color:  black !important;
+    color: white;
+}
+
+hr.star-light:after {
+    background-color:  #f1f2ed !important;
+}
+
+.bg-secondary, .footer, .navbar-brand {
+    background-color: black !important;
+    color:  white !important;
+font-family: 'Josefin Sans', sans-serif;
+}
+
+.btn-social {
+    color:  black !important;
+    border-color:black;
+
+font-family: 'Josefin Sans', sans-serif;
+}
+
+.nav-link {
+    color:  #f1f2ed !important;
+
+font-family: 'Josefin Sans', sans-serif !important;
+}
+
+.lead {
+    font-style: italic;
+}
+
+#mainNav .navbar-nav>li.nav-item>a.nav-link.active, .navbar-nav li:hover, .btn-social:hover {
+
+    background-color: #998edc !important;
+}
+
+.header-brand, .navbar-brand, .copyright {
+ font-family: 'Russo One', sans-serif !important;
+}
+
+.text-uppercase {
+font-family: 'Raleway', sans-serif;
+}
+
+#about {
+    background-image: url("../img/laurafriedman-coverimage.jpg");
+     background-attachment: fixed;
+}
+
+.footer {
+    background-color: #CBD0D8 !important;
+    background-image: url("../img/laurafriedman-coverimage.jpg");
+     background-attachment: fixed;
+    color:  black !important;
+}
+
+input.btn.btn-primary.btn-xl.send-button.submit {
+    background-color: black !important;
+    color: white !important;
+        width: 100%;
+    text-align: center;
+}
+
+h2, .text-secondary {
+    padding-bottom: 10px !important;
+}
+
+.resume:active {
+    color: #998edc !important;
+}
+
+label, label:active {
+    color: #998edc !important;
+}
+
+.btn-primary {
+    background-color: #CBD0D8 !important;
+    border-color: black !important;
+    color:  #f1f2ed;
+
+}
+
+.btn-primary:hover {
+    background-color: #998edc !important;
+    color:  #f1f2ed !important;
+}
+
+.form-control
+{
+    background-color: white  !important;
+}
+
+.biggertext {
+    font-size: 1.5em !important;
+}
+.evenbiggertext {
+    font-size: 3em !important;
+    font-family: 'Russo One', sans-serif !important;
+}
+
+
+.resume a, .portfolio-modal a {
+    color:  #585cca !important;
+}
+
+.resume a:hover, .portfolio-modal a:hover {
+    background-color: #998edc !important;
+    color: white !important;
+}
+
+.closewindow {
+    color:  black !important;
+    background-color: #f1f2ed!important;
+    border: 1px black dotted;
+    padding: 6px;
+}
+
+    .masthead {
+        background-image: url("../img/laurafriedman-coverimage.jpg");
+    background-attachment: fixed;
+        color: black !important;
+        background-size: auto;
+        object-fit: cover;
+        height: 600px;
+    }
+
+    .main {
+        background-color: #f4f4f4;
+    }
+
+    .head-text {
+    padding-top: 100px;
+    }
+
+section {
+    padding: 5rem 0;
+}
+
+.text-secondary, #resume h1, #contact h1 {
+    font-family: 'Monoton', cursive;
+    font-size: 60px;
+}
+
+.footer h4 {
+    font-size: 40px;
+    font-family: 'Monoton', cursive;
+}
+
+button.bg-primary:hover {
+    background-color: #998edc !important;
+}
+.portfolio .portfolio-item .portfolio-item-caption {
+    background-color: #998edc !important;
+}
+
+#page-top h2 {
+    font-family: 'Russo One', sans-serif !important;
+}
+
+.navbar-nav {
+        font-family: 'Russo One', sans-serif !important;
+}
+
+input.btn.btn-primary.btn-xl.send-button.submit:hover {
+    background-color: white !important;
+    color: black !important;
+}
+
+.img-thumbnail {
+    object-fit: cover;
+    height: 300px;
+}
+
+.footer .row a .fa {
+    font-size: 29px;
+}
